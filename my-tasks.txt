@@ -4,3 +4,4 @@ Minhas tarefas diárias:
 - Escrever modelos dbt
 - Validar KPIs
 - Manter backlog
+Assistir aulas do PretaLab
