@@ -1,0 +1,6 @@
+Minhas tarefas diárias:
+- Revisar PRs
+- Acompanhar pipelines
+- Escrever modelos dbt
+- Validar KPIs
+- Manter backlog
